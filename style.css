@@ -1,0 +1,161 @@
+/*
+Theme Name: byron.solutions
+Theme URI: http://byronsolutions.com
+Author: byron
+Author URI: http://byronsolutions.com/
+Description: Tema criado para a empresa junior byron.solutions
+Version: 1.0
+*/
+
+img {
+  display: block;
+  max-width: 100%;
+}
+
+body {
+  font-family: "Overpass";
+  background-color: #e5e5e5;
+}
+
+/* Gerais */
+
+body {
+  font-family: "Overpass", sans-serif;
+}
+
+.row {
+  margin: 0;
+}
+
+container {
+  padding: 70px 0;
+}
+
+p,
+li {
+  color: #263238;
+  font-size: 18px;
+}
+
+/* Barra de navegação */
+
+header,
+.navbar {
+  background-color: #e5e5e5;
+  position: relative;
+  width: 1440px;
+  height: 121px;
+}
+
+#nav-container {
+  padding-top: 0;
+  padding-bottom: 0;
+}
+#logo {
+  position: absolute;
+  width: 266px;
+  height: 50px;
+  left: 136px;
+  top: 43px;
+}
+
+.navbar-brand {
+  padding: 0;
+  color: #263238;
+}
+
+.navbar-brand:hover {
+  color: #263238;
+}
+
+#navbar-links a {
+  color: #263238;
+  padding-right: 40px;
+}
+
+.navbar-expand-lg .navbar-nav .nav-link {
+  padding: 1rem 0.8rem;
+}
+
+#icon_nav {
+  position: absolute;
+  width: 48px;
+  height: 18px;
+  left: 690px;
+  top: 58px;
+  font-size: 18px;
+}
+
+#home_nav {
+  position: absolute;
+  width: 48px;
+  height: 18px;
+  left: 728px;
+  top: 43px;
+  font-family: Overpass;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 18px;
+  color: #263238;
+}
+
+#portfolio_nav {
+  position: absolute;
+  width: 73px;
+  height: 18px;
+  left: 808px;
+  top: 43px;
+  font-family: Overpass;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 18px;
+  color: #263238;
+}
+
+#blog_nav {
+  position: absolute;
+  width: 36px;
+  height: 18px;
+  left: 913px;
+  top: 43px;
+  font-family: Overpass;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 18px;
+  color: #263238;
+}
+
+#sobre_nav {
+  position: absolute;
+  width: 190px;
+  height: 18px;
+  left: 981px;
+  top: 43px;
+  font-family: Overpass;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 18px;
+  color: #263238;
+}
+
+.btn1 {
+  position: absolute;
+  width: 183px;
+  height: 44px;
+  left: 1120px;
+  top: 43px;
+
+  background: #e5e5e5;
+  border: 1px solid #263238;
+  box-sizing: border-box;
+  border-radius: 55px;
+  font-family: Overpass;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 18px;
+}
